@@ -2,7 +2,7 @@
 
 Freddy Vega tiene 34 años y nació en Colombia
 
-Mañana nos enfocaremos en su vida laboral
+Mañana nos enfocaremos en su vida laboral lo mas pronto
 
 otro cambio + 1
 
@@ -10,4 +10,4 @@ en footer
 
 MASTER
 
-MASTER 2
+
